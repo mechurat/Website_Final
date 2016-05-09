@@ -1,0 +1,35 @@
+#service-btn{
+	color: #333;
+	font-weight: bold;
+	margin-bottom: 40px;
+	padding: 0px;
+}
+
+.container-sep{
+	padding-top: 150px;
+}
+
+.line{
+	height: 3px;
+	background-color: #47014C;
+	border-radius: 100px;
+}
+
+.container-format{
+	background-color:#fff;
+	padding-left:30px;
+	padding-right:30px;
+	border-radius: 20px;
+}
+
+.service-img{
+	width: 100%;
+	height: relative;
+}
+
+
+body{
+	padding-top:85px;
+	background-image: url(triangular.png);
+	background-repeat: repeat;
+}
